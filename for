@@ -1,13 +1,13 @@
-$say=6;
+$sayi=6;
 $kutu= 3;
 
-while($say < 100)
+while($sayi < 100)
 {
 
 $kutu= 10 ;
 
-$say = $say + $kutu;
+$sayi = $sayi + $kutu;
 
 }
 
-print " $say ";
+print " $sayi ";
